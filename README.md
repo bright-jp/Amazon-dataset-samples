@@ -1,79 +1,78 @@
 # Amazon-dataset-samples
 
-<h2>A sample dataset of 1001 Amazon products</h2>
+<h2>1001件のAmazon商品サンプルデータセット</h2>
 
 ![Amazon dataset header](https://github.com/luminati-io/Amazon-dataset-samples/blob/main/amazon-datasets.PNG)
 
-A Amazon dataset sample of over 1000 products. Dataset was extracted using the <b>Bright Data API</b>.
+1000件以上の商品を含むAmazonデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出されました。
 
-<h2>Data points included in this free dataset:</h2>
+<h2>この無料データセットに含まれるデータポイント:</h2>
 
-* ```title```: Product title
-* ```brand```: Product brand
-* ```description```: A brief description of the product
-* ```currency```: Currency of the product
-* ```availability```: Product availability
-* ```reviews_count```: Number of reviews
-* ```categories```: Product categories
-* ```asin```: Unique identifier for each product
-* ```buybox_seller```: Seller in the buy box
-* ```root_bs_rank```: Best sellers rank in the general category
-* ```images_count```: Number of images
-* ```url```: URL that links directly to the product
-* ```video_count```: Number of videos
-* ```image_url```: URL that links directly to the product image
-* ```rating```: Product rating
-* ```date_first_available```: Date when the product first became available
-* ```manufacturer```: Manufacturer of the product
-* ```plus_content```: Indicates the presence of additional content
-* ```final_price```: Final price of the product
-* ```buybox_prices```: Product price details
+* ```title```: 商品タイトル
+* ```brand```: 商品ブランド
+* ```description```: 商品の簡単な説明
+* ```currency```: 商品の通貨
+* ```availability```: 商品の在庫状況
+* ```reviews_count```: レビュー数
+* ```categories```: 商品カテゴリ
+* ```asin```: 各商品の一意の識別子
+* ```buybox_seller```: buy box内の販売者
+* ```root_bs_rank```: 一般カテゴリにおけるベストセラーランキング
+* ```images_count```: 画像数
+* ```url```: 商品へ直接リンクするURL
+* ```video_count```: 動画数
+* ```image_url```: 商品画像へ直接リンクするURL
+* ```rating```: 商品評価
+* ```date_first_available```: 商品が初めて利用可能になった日付
+* ```manufacturer```: 商品のメーカー
+* ```plus_content```: 追加コンテンツの有無を示します
+* ```final_price```: 商品の最終価格
+* ```buybox_prices```: 商品価格の詳細
 
-And a lot more.
+ほかにも多数あります。
 
-This is a sample subset which is derived from the "Amazon Products (public data)"
-dataset which includes more than <b>269,400,000 products</b>.
+これは「Amazon Products (public data)」データセットから派生したサンプルのサブセットであり、当該データセットには <b>269,400,000件以上の商品</b> が含まれています。
 
-Available dataset file formats: <b>JSON, NDJSON, JSON Lines, CSV, or Parquet. Optionally, files can be compressed to .gz</b>.
+利用可能なデータセットのファイル形式: <b>JSON, NDJSON, JSON Lines, CSV, または Parquet。必要に応じて、ファイルは .gz に圧縮できます</b>。
 
-Dataset delivery type options: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>.
+データセット配信タイプのオプション: <b>Email, API download, Webhook, Amazon S3, Google Cloud storage, Google Cloud PubSub, Microsoft Azure, Snowflake, SFTP</b>。
 
-Update frequency: <b>Once, Daily, Weekly, Monthly, Quarterly, or Custom basis</b>.
+更新頻度: <b>1回のみ、毎日、毎週、毎月、四半期ごと、またはカスタム</b>。
 
-Data enrichment available as an addition to the data points extracted: <b>Based on request.</b>
+抽出されたデータポイントに追加できるデータエンリッチメント: <b>リクエストに応じて。</b>
 
-<b>[Get the full Amazon products dataset](https://brightdata.com/products/datasets/amazon)</b>.
+<b>[Amazon商品データセットのフル版を取得](https://brightdata.jp/products/datasets/amazon)</b>。
 
-<h2>Additional Amazon datasets available:</h2>
+<h2>利用可能な追加のAmazonデータセット:</h2>
 
-* Amazon.es - products
-* Amazon.de - products
-* Amazon.co.uk - products
-* Amazon.it - products
-* Amazon.fr - products
-* Amazon.in - products
-* Amazon products search
-* Amazon best seller products
-* Amazon Reviews
-* Amazon sellers info
-* Amazon products global dataset
+* Amazon.es - 商品
+* Amazon.de - 商品
+* Amazon.co.uk - 商品
+* Amazon.it - 商品
+* Amazon.fr - 商品
+* Amazon.in - 商品
+* Amazon 商品検索
+* Amazon ベストセラー商品
+* Amazon レビュー
+* Amazon 出品者情報
+* Amazon 商品グローバルデータセット
 
 ![Amazon dataset visual](https://github.com/luminati-io/Amazon-dataset-samples/blob/main/amazon-datasets-image.PNG)
 
-<h2>What are the Amazon datasets use cases?</h2>
+<h2>Amazonデータセットのユースケースとは？</h2>
 
-<h3>1. Optimize Your Inventory & Pricing Strategy</h3>
+<h3>1. 在庫および価格戦略を最適化する</h3>
 
-Discover top-selling products that customers are searching for and buying. Enhance your entire inventory, pricing, supply chain, and marketing approach for maximum efficiency.
+顧客が検索して購入している売れ筋商品を発見します。在庫全体、価格設定、サプライチェーン、マーケティング手法を改善し、最大限の効率を実現します。
 
-<h3>2. Gain a Competitive Edge</h3>
+<h3>2. 競争優位性を獲得する</h3>
 
-Amazon's top sellers have a winning formula. Study their products, reviews, and promotions to inspire new business ideas or invite them to join your marketplace.
+Amazonのトップセラーには勝てる方程式があります。商品、レビュー、プロモーションを分析して、新しいビジネスアイデアの着想を得たり、彼らを自社マーケットプレイスに招待したりできます。
 
-<h3>3. Understand Consumer Sentiment & Brand Trends</h3>
+<h3>3. 消費者の感情とブランドトレンドを理解する</h3>
 
-Monitor trending categories and brands in different countries to detect changes in consumer preferences and product popularity.
+国ごとにトレンドのカテゴリやブランドをモニタリングし、消費者の嗜好や商品の人気の変化を検知します。
 
-<h2>Free access to web scraping tools and datasets for academic researchers and NGOs</h2>
+<h2>学術研究者およびNGO向けのWebスクレイピングツールとデータセットへの無料アクセス</h2>
 
-The Bright Initiative offers access to Bright Data's <b>[Web Scraper APIs](https://brightdata.com/products/web-scraper)</b> and <b>[ready-to-use datasets](https://brightdata.com/products/datasets)</b> to leading academic faculties and researchers, NGOs and NPOs promoting various environmental and social causes. You can submit an application <b>[here](https://brightinitiative.com)</b>.
+Bright Initiativeは、さまざまな環境・社会課題に取り組む主要な学部・研究者、NGOおよびNPOに対し、Bright Dataの <b>[Web Scraper APIs](https://brightdata.jp/products/web-scraper)</b> と <b>[すぐに使えるデータセット](https://brightdata.jp/products/datasets)</b> へのアクセスを提供しています。申請は <b>[こちら](https://brightinitiative.com)</b> から提出できます。
