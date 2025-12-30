@@ -2,7 +2,7 @@
 
 <h2>1001件のAmazon商品サンプルデータセット</h2>
 
-![Amazon dataset header](https://github.com/luminati-io/Amazon-dataset-samples/blob/main/amazon-datasets.PNG)
+![Amazon dataset header](https://github.com/bright-jp/Amazon-dataset-samples/blob/main/amazon-datasets.PNG)
 
 1000件以上の商品を含むAmazonデータセットサンプルです。データセットは <b>Bright Data API</b> を使用して抽出されました。
 
@@ -57,7 +57,7 @@
 * Amazon 出品者情報
 * Amazon 商品グローバルデータセット
 
-![Amazon dataset visual](https://github.com/luminati-io/Amazon-dataset-samples/blob/main/amazon-datasets-image.PNG)
+![Amazon dataset visual](https://github.com/bright-jp/Amazon-dataset-samples/blob/main/amazon-datasets-image.PNG)
 
 <h2>Amazonデータセットのユースケースとは？</h2>
 
