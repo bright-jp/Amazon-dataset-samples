@@ -1,4 +1,4 @@
-# Amazon-dataset-samples
+# Amazon データセットサンプル
 
 <h2>1001件のAmazon商品サンプルデータセット</h2>
 
